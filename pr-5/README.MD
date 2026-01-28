@@ -82,3 +82,4 @@ npm start
 - `student` - View only
 
 All endpoints protected with JWT authentication
+
