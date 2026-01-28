@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "age": 21,
+    "group": 2
+  },
+  {
+    "id": "2",
+    "name": "Jane Doe",
+    "age": 25,
+    "group": 3
+  },
+  {
+    "id": "3",
+    "name": "Andrei Ramanenka",
+    "age": 24,
+    "group": 3
+  },
+  {
+    "id": "4",
+    "name": "asdasd",
+    "age": 123,
+    "group": 1
+  }
+]
